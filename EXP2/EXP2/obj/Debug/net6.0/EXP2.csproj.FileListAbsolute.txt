@@ -1,0 +1,14 @@
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\bin\Debug\net6.0\EXP2.exe
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\bin\Debug\net6.0\EXP2.deps.json
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\bin\Debug\net6.0\EXP2.runtimeconfig.json
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\bin\Debug\net6.0\EXP2.dll
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\bin\Debug\net6.0\EXP2.pdb
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\obj\Debug\net6.0\EXP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\obj\Debug\net6.0\EXP2.AssemblyInfoInputs.cache
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\obj\Debug\net6.0\EXP2.AssemblyInfo.cs
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\obj\Debug\net6.0\EXP2.csproj.CoreCompileInputs.cache
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\obj\Debug\net6.0\EXP2.dll
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\obj\Debug\net6.0\refint\EXP2.dll
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\obj\Debug\net6.0\EXP2.pdb
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\obj\Debug\net6.0\EXP2.genruntimeconfig.cache
+C:\Users\Samara\Downloads\FACULDADE\Cursos\Udemy\curso de C#\EXP2\EXP2\obj\Debug\net6.0\ref\EXP2.dll
